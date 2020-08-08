@@ -30,6 +30,7 @@ Hi there 👋 I am a Data Enthusiast and currently working as a Machine Learning
 - SQL 
 - IBM Cloud
 - Amazon Web Services (AWS)
+- Docker
 - HTML
 - Adobe Photoshop
 
