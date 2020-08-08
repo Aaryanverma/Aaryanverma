@@ -28,6 +28,8 @@ Hi there 👋 I am a Data Enthusiast and currently working as a Machine Learning
 ## ⚙️Skills
 - Python
 - SQL 
+- IBM Cloud
+- Amazon Web Services (AWS)
 - HTML
 - Adobe Photoshop
 
@@ -37,7 +39,7 @@ Hi there 👋 I am a Data Enthusiast and currently working as a Machine Learning
 - [Google Cloud Certified Machine Learning Course](https://google.qwiklabs.com/public_profiles/f56881d6-94cc-43cd-b94b-fd484bf52d3c)
 - [Data Science Foundations - Level 1 (IBM)](https://www.youracclaim.com/badges/696dde85-6156-49f6-b697-45a22f09034b/linked_in_profile)
 
-## ☕ Get In Touch
+## 📫 Get In Touch
 - Email: [aryan212verma@gmail.com](mailto:aryan212verma@gmail.com)
 - LinkedIn: [@aaryanverma](https://www.linkedin.com/in/aaryanverma/)
 - Twitter: [@iam_aaryanverma](https://twitter.com/iam_aaryanverma)
