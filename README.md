@@ -22,7 +22,6 @@ Hi there 👋 I am a Data Enthusiast and currently working as a Machine Learning
 - [COVID-19 Outbreak Forecast](https://github.com/Aaryanverma/COVID-19-Time-Series-Outbreak-Forecast)
 - [License Plate Detection and Recognition](https://github.com/Aaryanverma/License_Plate_Detector)
 - [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
-- [Drowsiness Detection](https://github.com/Aaryanverma/Drowsiness-Detection)
 - [Twitter Sentimental Analysis](https://github.com/Aaryanverma/Twitter-Sentimental-Analysis-)
 
 ## ⚙️Skills
