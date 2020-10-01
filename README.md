@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Aaryan Verma - [@Aaryanverma](https://github.com/Aaryanverma)
 
-Hi there 👋 I am a Data Enthusiast and currently working as a Machine Learning Intern @ StackFusion Pvt. Ltd. I'm a Tech Savvy and geeky person who loves to explore the data to develop some really cool applications using Machine Learning and Deep Learning.
+Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to explore the data to develop some really cool applications using Machine Learning and Deep Learning.
 
 ## ✍️ My Work Includes
 - [Online News Crawling and Virality Prediction](https://github.com/Aaryanverma/News_Virality_Prediction)
