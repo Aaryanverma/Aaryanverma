@@ -19,6 +19,7 @@ Hi there 👋 I am a Data Enthusiast and currently working as a Machine Learning
 
 ## ✍️ My Work Includes
 - [Online News Crawling and Virality Prediction](https://github.com/Aaryanverma/News_Virality_Prediction)
+- [Job Area Recommendation](https://github.com/Aaryanverma/job_recommendation)
 - [COVID-19 Outbreak Forecast](https://github.com/Aaryanverma/COVID-19-Time-Series-Outbreak-Forecast)
 - [License Plate Detection and Recognition](https://github.com/Aaryanverma/License_Plate_Detector)
 - [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
