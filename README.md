@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to explore the data to develop some really cool applications using Machine Learning and Deep Learning.
 
 ## ✍️ My Work Includes
-- [Online News Crawling and Virality Prediction](https://github.com/Aaryanverma/News_Virality_Prediction)
 - [Resume Scanning System](https://resume-scan.herokuapp.com/)
-- [COVID-19 Outbreak Forecast](https://github.com/Aaryanverma/COVID-19-Time-Series-Outbreak-Forecast)
 - [License Plate Detection and Recognition](https://github.com/Aaryanverma/License_Plate_Detector)
-- [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
 - [Twitter Sentimental Analysis](https://github.com/Aaryanverma/Twitter-Sentimental-Analysis-)
+- [Online News Crawling and Virality Prediction](https://github.com/Aaryanverma/News_Virality_Prediction)
+- [COVID-19 Outbreak Forecast](https://github.com/Aaryanverma/COVID-19-Time-Series-Outbreak-Forecast)
+- [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
 
 ## ⚙️Skills
 - Python
