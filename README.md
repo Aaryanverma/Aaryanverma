@@ -19,7 +19,7 @@ Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to e
 
 ## ✍️ My Work Includes
 - [Resume Scanning System](https://resume-scan.herokuapp.com/)
-- [Credit Card Fraud Analysis and Detection] (https://github.com/Aaryanverma/Fraud-Analysis-and-Detection)
+- [Credit Card Fraud Analysis and Detection](https://github.com/Aaryanverma/Fraud-Analysis-and-Detection)
 - [License Plate Detection and Recognition](https://github.com/Aaryanverma/License_Plate_Detector)
 - [Twitter Sentimental Analysis](https://github.com/Aaryanverma/Twitter-Sentimental-Analysis-)
 - [Online News Crawling and Virality Prediction](https://github.com/Aaryanverma/News_Virality_Prediction)
