@@ -26,7 +26,14 @@ Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to e
 - [COVID-19 Outbreak Forecast](https://github.com/Aaryanverma/COVID-19-Time-Series-Outbreak-Forecast)
 - [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
 
-## ⚙️Skills
+## ✓ What I can do for you:
+- Predictive Analytics
+- Sentimental Analysis
+- Develop Machine Learning Models (including Computer Vision, NLP)
+- Anamoly Detection
+- Optimize and Deploy models on hardware (Jetson Nano, Google Coral Board)
+
+## ⚙️ Skills
 - Python
 - SQL 
 - IBM Cloud
