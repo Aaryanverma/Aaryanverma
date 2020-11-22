@@ -29,8 +29,8 @@ Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to e
 ## ✓ What I can do for you:
 - Predictive Analytics
 - Sentimental Analysis
-- Develop Machine Learning Models (including Computer Vision, NLP)
 - Anamoly Detection
+- Develop Machine Learning Models (including Computer Vision, NLP)
 - Optimize and Deploy models on hardware (Jetson Nano, Google Coral Board)
 
 ## ⚙️ Skills
