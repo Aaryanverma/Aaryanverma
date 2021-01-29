@@ -26,6 +26,8 @@ Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to e
 - [COVID-19 Outbreak Forecast](https://github.com/Aaryanverma/COVID-19-Time-Series-Outbreak-Forecast)
 - [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanverma&theme=dark)
+
 ## ✓ What I can do for you:
 - Predictive Analytics
 - Sentimental Analysis
