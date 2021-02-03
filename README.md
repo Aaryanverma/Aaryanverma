@@ -23,7 +23,6 @@ Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to e
 - [License Plate Detection and Recognition](https://github.com/Aaryanverma/License_Plate_Detector)
 - [Twitter Sentimental Analysis](https://github.com/Aaryanverma/Twitter-Sentimental-Analysis-)
 - [Online News Crawling and Virality Prediction](https://github.com/Aaryanverma/News_Virality_Prediction)
-- [COVID-19 Outbreak Forecast](https://github.com/Aaryanverma/COVID-19-Time-Series-Outbreak-Forecast)
 - [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanverma&theme=dark)
