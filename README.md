@@ -32,7 +32,7 @@ Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to e
 - Sentimental Analysis
 - Anamoly Detection
 - Develop Machine Learning Models (including Computer Vision, NLP)
-- Optimize and Deploy models on hardware (Jetson Nano, Google Coral Board)
+- Optimize Models to be deploy ready on hardwares (Jetson Nano, Google Coral Board)
 
 ## ⚙️ Skills
 - Python
