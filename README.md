@@ -28,25 +28,25 @@ Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to e
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanverma&theme=dark)
 
 ## ✓ What I can do for you:
+- Anamoly Detection
 - Predictive Analytics
 - Sentimental Analysis
-- Anamoly Detection
-- Develop Machine Learning Models (including Computer Vision, NLP)
+- Develop Machine Learning/Deep Learning Models (including Computer Vision, NLP)
 - Optimize Models to be deploy ready on hardwares (Jetson Nano, Google Coral Board)
 
 ## ⚙️ Skills
-- Python
-- SQL 
-- IBM Cloud
-- Amazon Web Services (AWS)
-- Docker
-- HTML
-- Adobe Photoshop
+- Programming: Python (Anaconda, Jupyter), SQL, HTML
+- Python/ML Libraries: Scikit-Learn, Pandas, MatplotLib, Streamlit
+- Deep Learning: TensorFlow, Keras
+- NLP Libraries: NLTK, spaCy, TextBlob, Re
+- Cloud Services: AWS EC2, IBM Cloud
+- MLOps: Docker,ONNX,TensorRT
+- Operating Systems: Linux(Ubuntu), Windows
 
-## 📃 Certifications
+## 📃 Certifications/Trainings
 - [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WWBBEB4SYFCX)
 - [Classification with Transfer Learning in Keras (Coursera)](http://coursera.org/verify/GKFKWVTVEUCF)
-- [Google Cloud Certified Machine Learning Course](https://google.qwiklabs.com/public_profiles/f56881d6-94cc-43cd-b94b-fd484bf52d3c)
+- [Google Cloud Certified Machine Learning Labs](https://google.qwiklabs.com/public_profiles/f56881d6-94cc-43cd-b94b-fd484bf52d3c)
 - [Data Science Foundations - Level 1 (IBM)](https://www.youracclaim.com/badges/696dde85-6156-49f6-b697-45a22f09034b/linked_in_profile)
 
 ## 📫 Get In Touch
