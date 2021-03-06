@@ -40,7 +40,7 @@ Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to e
 - Deep Learning: TensorFlow, Keras
 - NLP Libraries: NLTK, spaCy, TextBlob, Re
 - Cloud Services: AWS EC2, IBM Cloud
-- MLOps: Docker,ONNX,TensorRT
+- MLOps: Docker, ONNX, TensorRT
 - Operating Systems: Linux(Ubuntu), Windows
 
 ## 📃 Certifications/Trainings
