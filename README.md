@@ -20,7 +20,7 @@ I am an AI/ML Enthusiast, Tech Savvy and geeky person who loves to explore the d
 <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aaryanverma&show_icons=true&theme=gotham" alt="Aaryan Verma | Stats" />
+<p align="center"> <br><img src="https://github-readme-stats.vercel.app/api?username=Aaryanverma&show_icons=true&theme=gotham" alt="Aaryan Verma | Stats" />
 <br><br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanverma&theme=dark" alt="Top Lnagugages"/>
 
