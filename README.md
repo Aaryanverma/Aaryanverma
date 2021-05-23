@@ -84,7 +84,7 @@ I am an AI/ML Enthusiast, Tech Savvy and geeky person who loves to explore the d
 
 - Operating Systems:
 
-  <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="buntu" height="20" width="20"/> Linux(Ubuntu) 
+  <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="buntu" height="20" width="20"/> Linux (Ubuntu) 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" height="20" width="20"/> Windows
 
 ## 📃 Certifications/Trainings
