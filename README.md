@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Aaryan Verma - [@Aaryanverma](https://github.com/Aaryanverma)
 
-Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to explore the data to develop some really cool applications using Machine Learning and Deep Learning.
+Hi there 👋 I am a AI/ML Enthusiast, Tech Savvy and geeky person who loves to explore the data to develop some really cool applications using Machine Learning and Deep Learning.
 
 ## ✍️ My Work Includes
 - [Resume Scanning System](https://resume-scan.herokuapp.com/)
@@ -26,6 +26,7 @@ Hi there 👋 I am a Data Enthusiast, Tech Savvy and geeky person who loves to e
 - [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanverma&theme=dark)
+![Visitor Count](https://profile-counter.glitch.me/{Aaryanverma}/count.svg)
 
 ## ✓ What I can do for you:
 - Anamoly Detection
