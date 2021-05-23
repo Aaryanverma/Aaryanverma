@@ -27,6 +27,13 @@ Hi there 👋 I am a AI/ML Enthusiast, Tech Savvy and geeky person who loves to 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanverma&theme=dark)
 
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aaryanverma&show_icons=true&theme=gotham" alt="Aaryan Verma | Stats" />
+
+</details>
+
 ![Visitor Count](https://profile-counter.glitch.me/{Aaryanverma}/count.svg)
 
 ## ✓ What I can do for you:
