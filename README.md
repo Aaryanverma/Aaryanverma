@@ -88,6 +88,8 @@ I am an AI/ML Aficionado, Tech Savvy and geeky person who loves to explore the d
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" height="20" width="20"/> Windows
 
 ## 📃 Certifications/Trainings
+- [NLP - Natural Language Processing with Python (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-4bdbf23f-8149-496e-bc8a-be467941b4c2.pdf)
+- [Artificial Intelligence Ethics Certification (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6f1f828f-641a-4d49-a91c-6bb8ace28fd8.pdf)
 - [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WWBBEB4SYFCX)
 - [Classification with Transfer Learning in Keras (Coursera)](http://coursera.org/verify/GKFKWVTVEUCF)
 - [Google Cloud Certified Machine Learning Labs](https://google.qwiklabs.com/public_profiles/f56881d6-94cc-43cd-b94b-fd484bf52d3c)
