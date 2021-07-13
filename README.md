@@ -33,6 +33,7 @@ I am an AI/ML Aficionado, Tech Savvy and geeky person who loves to explore the d
 - [Resume Scanning System](https://resume-scan.herokuapp.com/)
 - [Credit Card Fraud Analysis and Detection](https://github.com/Aaryanverma/Fraud-Analysis-and-Detection)
 - [License Plate Detection and Recognition](https://github.com/Aaryanverma/License_Plate_Detector)
+- [WhatsApp Chat Dashboard](https://github.com/Aaryanverma/whatsapp_chat_dashboard)
 - [Twitter Sentimental Analysis](https://github.com/Aaryanverma/Twitter-Sentimental-Analysis-)
 - [Online News Crawling and Virality Prediction](https://github.com/Aaryanverma/News_Virality_Prediction)
 - [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
