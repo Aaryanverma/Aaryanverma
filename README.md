@@ -43,7 +43,7 @@ Profile Views:
 
 
 ## ✓ What I can do for you
-- Anamoly Detection
+- Anomaly Detection
 - Predictive Analytics
 - Sentimental Analysis
 - Develop Machine Learning/Deep Learning Models (including Computer Vision, NLP)
