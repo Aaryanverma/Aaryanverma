@@ -33,6 +33,7 @@ Profile Views:
 
 ## ✍️ My Work Includes
 - [Resume Scanning System](https://resume-scan.herokuapp.com/)
+- [Self Learning Q&A Chatbot](http://wackytalkie.herokuapp.com/)
 - [FAQ Chatbot](https://github.com/Aaryanverma/faq-chatbot)
 - [Credit Card Fraud Analysis and Detection](https://github.com/Aaryanverma/Fraud-Analysis-and-Detection)
 - [License Plate Detection and Recognition](https://github.com/Aaryanverma/License_Plate_Detector)
