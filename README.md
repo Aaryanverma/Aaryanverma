@@ -93,12 +93,13 @@ Profile Views:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" height="20" width="20"/> Windows
 
 ## 📃 Certifications/Trainings
+- [Microsoft Azure Certified Data Scientist Associate](https://www.credly.com/badges/b238fe2b-81a0-4b16-8e1b-3d7bfc78ee78)
+- [EY Artificial intelligence - Bronze](https://www.credly.com/badges/9c028525-4cb8-4112-9c01-9060bd518a15/public_url)
 - [NLP - Natural Language Processing with Python (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-4bdbf23f-8149-496e-bc8a-be467941b4c2.pdf)
 - [Artificial Intelligence Ethics Certification (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6f1f828f-641a-4d49-a91c-6bb8ace28fd8.pdf)
 - [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WWBBEB4SYFCX)
 - [Classification with Transfer Learning in Keras (Coursera)](http://coursera.org/verify/GKFKWVTVEUCF)
 - [Google Cloud Certified Machine Learning Labs](https://google.qwiklabs.com/public_profiles/f56881d6-94cc-43cd-b94b-fd484bf52d3c)
-- [Data Science Foundations - Level 1 (IBM)](https://www.youracclaim.com/badges/696dde85-6156-49f6-b697-45a22f09034b/linked_in_profile)
 
 ## 📫 Get In Touch
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:aryan212verma@gmail.com)
