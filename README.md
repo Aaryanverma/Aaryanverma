@@ -17,14 +17,7 @@ Here are some ideas to get you started:
 
 I am an AI/ML Aficionado, Tech Savvy and geeky person who loves to explore the data to develop some really cool applications using Machine Learning and Deep Learning.
 
-<details>
-<summary>📊 Github Stats</summary>
 
-<p align="center"> <br><img src="https://github-readme-stats.vercel.app/api?username=Aaryanverma&show_icons=true&theme=gotham" alt="Aaryan Verma | Stats" />
-<br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanverma&theme=dark" alt="Top Languages"/>
-
-</details>
 Profile Views:
 
 ![Visitor Count](https://profile-counter.glitch.me/{Aaryanverma}/count.svg)
@@ -100,6 +93,10 @@ Profile Views:
 - [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WWBBEB4SYFCX)
 - [Classification with Transfer Learning in Keras (Coursera)](http://coursera.org/verify/GKFKWVTVEUCF)
 - [Google Cloud Certified Machine Learning Labs](https://google.qwiklabs.com/public_profiles/f56881d6-94cc-43cd-b94b-fd484bf52d3c)
+
+## 📊 Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Aaryanverma&show_icons=true&theme=gotham" alt="Aaryan Verma | Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanverma&theme=dark" alt="Top Languages"/>
 
 ## 📫 Get In Touch
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:aryan212verma@gmail.com)
