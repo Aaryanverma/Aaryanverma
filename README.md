@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am [Aaryan Verma](https://github.com/Aaryanverma)
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am [Aaryan Verma](https://github.com/Aaryanverma)
 
 I am an AI/ML Aficionado, Tech Savvy and geeky person who loves to explore the data to develop some really cool applications using Machine Learning and Deep Learning.
 
