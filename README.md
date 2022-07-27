@@ -50,7 +50,7 @@ Profile Views:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="jupyter" width="30" height="30"/> Jupyter Notebook
   <img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" alt="anaconda" width="30" height="30"/> Anaconda
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="30"/> HTML
-  <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/> SQL
+  <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" alt="mysql" width="30" height="30"/> MongoDB
 
 - Python/ML Libraries:
 
