@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am [Aaryan Verma](https://github.com/Aaryanverma)
 
-I am an AI/ML Aficionado, Tech Savvy and geeky person who loves to explore the data to develop some really cool applications using Machine Learning and Deep Learning.
+I am a Data scientist and an AI/ML Aficionado, Tech Savvy and geeky person who loves to explore the data to develop some cool applications using Machine Learning and Deep Learning.
 
 
 Profile Views:
@@ -48,7 +48,7 @@ Profile Views:
 
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30"/> Python
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="jupyter" width="30" height="30"/> Jupyter Notebook
-  <img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" alt="anaconda" width="30" height="30"/> Anaconda
+  <img src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" alt="anaconda" width="30" height="30"/> Anaconda
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="30"/> HTML
   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" alt="mysql" width="30" height="30"/> MongoDB
 
@@ -70,9 +70,8 @@ Profile Views:
   <img height="30" src="https://img.shields.io/badge/NLTK-black?style=for-the-badge&logo=NLTK&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/spaCy-blue?style=for-the-badge&logo=spaCy&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Textblob-black?style=for-the-badge&logo=Textblob&logoColor=white"/>   <img height="30" src="https://img.shields.io/badge/Re-black?style=for-the-badge&logo=Re&logoColor=white"/>
 
 - Cloud Services:
- 
+  <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="awsec2" width="25" height="25"/> Microsoft Azure
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" alt="awsec2" width="25" height="25"/> AWS EC2 
-  <img src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" alt="awsec2" width="25" height="25"/> IBM Cloud
 
 - MLOps:
 
@@ -94,10 +93,6 @@ Profile Views:
 - [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/account/accomplishments/certificate/WWBBEB4SYFCX)
 - [Classification with Transfer Learning in Keras (Coursera)](http://coursera.org/verify/GKFKWVTVEUCF)
 - [Google Cloud Certified Machine Learning Labs](https://google.qwiklabs.com/public_profiles/f56881d6-94cc-43cd-b94b-fd484bf52d3c)
-
-## 📊 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Aaryanverma&show_icons=true&theme=gotham" alt="Aaryan Verma | Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanverma&theme=dark" alt="Top Languages"/>
 
 ## 📫 Get In Touch
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:aryan212verma@gmail.com)
