@@ -70,6 +70,7 @@ Profile Views:
   <img height="30" src="https://img.shields.io/badge/NLTK-black?style=for-the-badge&logo=NLTK&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/spaCy-blue?style=for-the-badge&logo=spaCy&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Textblob-black?style=for-the-badge&logo=Textblob&logoColor=white"/>   <img height="30" src="https://img.shields.io/badge/Re-black?style=for-the-badge&logo=Re&logoColor=white"/>
 
 - Cloud Services:
+  
   <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="awsec2" width="25" height="25"/> Microsoft Azure
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" alt="awsec2" width="25" height="25"/> AWS EC2 
 
