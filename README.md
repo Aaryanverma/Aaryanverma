@@ -25,6 +25,9 @@ Profile Views:
 - - -
 
 ## ✍️ My Work Includes
+- [GenAI](https://github.com/Aaryanverma/GenAI)
+- [Closed Domain Text Search Engine](https://github.com/Aaryanverma/search_engine)
+- [Image Search](https://github.com/Aaryanverma/image_search)
 - [Resume Scanning System](https://resume-scan.herokuapp.com/)
 - [Self Learning Q&A Chatbot](http://wackytalkie.herokuapp.com/)
 - [FAQ Chatbot](https://github.com/Aaryanverma/faq-chatbot)
@@ -37,6 +40,7 @@ Profile Views:
 
 
 ## ✓ What I can do for you
+- GenAI based webapps/bots
 - Anomaly Detection
 - Predictive Analytics
 - Sentimental Analysis
@@ -58,7 +62,8 @@ Profile Views:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="30" height="30"/> Pandas 
   <img src="http://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> Seaborn 
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="30" height="30"/> OpenCV 
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="30" height="30"/> Streamlit 
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="30" height="30"/> Streamlit
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" alt="pyspark" width="60" height="30"/> PySpark
  
 - Deep Learning:
 
@@ -67,12 +72,12 @@ Profile Views:
 
 - NLP Libraries:
 
-  <img height="30" src="https://img.shields.io/badge/NLTK-black?style=for-the-badge&logo=NLTK&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/spaCy-blue?style=for-the-badge&logo=spaCy&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Textblob-black?style=for-the-badge&logo=Textblob&logoColor=white"/>   <img height="30" src="https://img.shields.io/badge/Re-black?style=for-the-badge&logo=Re&logoColor=white"/>
+  <img height="30" src="https://media.licdn.com/dms/image/D4D12AQGQQFHNeQJRgQ/article-cover_image-shrink_720_1280/0/1711873462713?e=2147483647&v=beta&t=u5ls9p4LHatE_PxtiNIm23lIFGMaAjp-XHdV7TwwDxE"/> <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMP8S3VbNCqOQd7QQQcbvC_FLa1HlftCiJw&s"> LlamaIndex </img> <img height="30" src="https://img.shields.io/badge/NLTK-black?style=for-the-badge&logo=NLTK&logoColor=white"/> <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSQY3mAF3wblmN0G5jKuBLPZvvGHvEnh3eA&s"/> <img height="30" src="https://img.shields.io/badge/Textblob-black?style=for-the-badge&logo=Textblob&logoColor=white"/>   <img height="30" src="https://img.shields.io/badge/Re-black?style=for-the-badge&logo=Re&logoColor=white"/>
 
 - Cloud Services:
   
   <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="awsec2" width="25" height="25"/> Microsoft Azure
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" alt="awsec2" width="25" height="25"/> AWS EC2 
+  <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="25" height="25"/> AWS 
 
 - MLOps:
 
