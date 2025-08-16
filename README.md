@@ -84,7 +84,7 @@ I am a Data scientist who loves to explore the data to develop some cool applica
 - Operating Systems:
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="macos" height="20" width="20"/> MacOS 
-  <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="ubuntu" height="20" width="20"/> Linux (Ubuntu) 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" alt="ubuntu" height="20" width="20"/> Linux (Ubuntu) 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" height="20" width="20"/> Windows
 
 ## 📃 Certifications/Trainings
