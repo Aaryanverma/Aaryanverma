@@ -88,7 +88,7 @@ I am a Data scientist who loves to explore the data to develop some cool applica
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" height="20" width="20"/> Windows
 
 ## 📃 Certifications/Trainings
-- [Microsoft Certified Azure Data Scientist Associate](https://www.credly.com/badges/b238fe2b-81a0-4b16-8e1b-3d7bfc78ee78)
+- [Microsoft Certified Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/aaryan-verma/credentials/5d10d6d8f634937b)
 - [EY Artificial intelligence - Bronze](https://www.credly.com/badges/9c028525-4cb8-4112-9c01-9060bd518a15/public_url)
 - [NLP - Natural Language Processing with Python (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-4bdbf23f-8149-496e-bc8a-be467941b4c2.pdf)
 - [Artificial Intelligence Ethics Certification (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6f1f828f-641a-4d49-a91c-6bb8ace28fd8.pdf)
