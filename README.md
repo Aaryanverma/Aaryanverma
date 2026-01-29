@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am [Aaryan Verma](https://github.com/Aaryanverma)
 
-I am a Data scientist who loves to explore the data to develop some cool applications using AI, Machine Learning and Deep Learning.
+I am a Data scientist who loves to explore data to develop meaningful applications using AI, Machine Learning, and Deep Learning.
 
 
 - - -
