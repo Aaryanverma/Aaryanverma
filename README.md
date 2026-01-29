@@ -21,27 +21,15 @@ I am a Data scientist who loves to explore the data to develop some cool applica
 - - -
 
 ## ✍️ My Work Includes
+- [TrustifAI](https://github.com/Aaryanverma/trustifai)
 - [GenAI](https://github.com/Aaryanverma/GenAI)
 - [Closed Domain Text Search Engine](https://github.com/Aaryanverma/search_engine)
 - [Image Search](https://github.com/Aaryanverma/image_search)
-- [Resume Scanning System](https://resume-scan.herokuapp.com/)
-- [Self Learning Q&A Chatbot](http://wackytalkie.herokuapp.com/)
 - [FAQ Chatbot](https://github.com/Aaryanverma/faq-chatbot)
-- [Credit Card Fraud Analysis and Detection](https://github.com/Aaryanverma/Fraud-Analysis-and-Detection)
 - [License Plate Detection and Recognition](https://github.com/Aaryanverma/License_Plate_Detector)
 - [WhatsApp Chat Dashboard](https://github.com/Aaryanverma/whatsapp_chat_dashboard)
-- [Twitter Sentimental Analysis](https://github.com/Aaryanverma/Twitter-Sentimental-Analysis-)
-- [Online News Crawling and Virality Prediction](https://github.com/Aaryanverma/News_Virality_Prediction)
 - [COVID-19 X-Ray Detector](https://github.com/Aaryanverma/COVID-19-X-Ray-Detector)
 
-
-## ✓ What I can do for you
-- GenAI based webapps/bots
-- Anomaly Detection
-- Predictive Analytics
-- Sentimental Analysis
-- Develop Machine Learning/Deep Learning Models (including Computer Vision, NLP)
-- Optimize Models to be deploy ready on hardwares (Jetson Nano, Google Coral Board)
 
 ## ⚙️ TechStack
 - Programming:
