@@ -42,7 +42,7 @@ I am a Data scientist who loves to explore data to develop meaningful applicatio
 
 - Python/ML Libraries:
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="sklearn" height="30"/> Scikit-Learn 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/960px-Scikit_learn_logo_small.svg.png" alt="sklearn" height="30"/> Scikit-Learn 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="30" height="30"/> Pandas 
   <img src="http://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> Seaborn 
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="opencv" width="30" height="30"/> OpenCV 
@@ -50,7 +50,7 @@ I am a Data scientist who loves to explore data to develop meaningful applicatio
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" alt="pyspark" width="60" height="30"/> PySpark
  
 - Deep Learning:
-
+  <img src="https://huggingface.co/blog/assets/59_transformers_philosophy/transformers.png" alt="transformers" width="80" height="30"/> Transformers
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="30" height="30"/> TensorFlow 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/600px-Keras_logo.svg.png" alt="keras" width="30" height="30"/> Keras
 
@@ -85,6 +85,5 @@ I am a Data scientist who loves to explore data to develop meaningful applicatio
 - [Google Cloud Certified Machine Learning Labs](https://google.qwiklabs.com/public_profiles/f56881d6-94cc-43cd-b94b-fd484bf52d3c)
 
 ## 📫 Get In Touch
-[<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:aryan212verma@gmail.com)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aaryanverma/)
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iam_aaryanverma)
+[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png" />](https://www.linkedin.com/in/aaryanverma/)
+[<img height="30" src="https://img.freepik.com/premium-vector/twitter-new-logo-kyiv-ukraine-august-19-2023-editorial-vector_547674-6310.jpg?semt=ais_hybrid" />](https://x.com/iam_aaryanverma)
